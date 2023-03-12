@@ -52,7 +52,7 @@ font-style: italic;
     text-align: start;
     margin: auto;
 }
-@media screen and (max-width: 600px) {
+@media @media (min-width: 390px) and (max-width: 844px) {
     #infor{
         
             background-color: rgb(255, 255, 56);
@@ -67,7 +67,7 @@ font-style: italic;
         color: rgb(6, 1, 1);
         border-radius: 10px ;
         background-color: yellow;
-        width: 400px;
+        width: 200px;
         text-align: center;
         margin: auto;
         box-shadow: 5px 5px 5px rgb(241, 245, 186);
